@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently learning and diving in Data Analytics.
+
 🤔 I’m looking for help with how to learn Data Analytics effectively, I want to make good progress.
+
 💬 You can ask me anything about astronomy, that's my interest.
+
 😄 Pronouns: He/ Him
